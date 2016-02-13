@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/yamamoto-febc/slack-echo-bot",
+	"GoVersion": "go1.5.3",
+	"Packages": [
+		"github.com/yamamoto-febc/slack-echo-bot"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.0.1-76-ga6a2e43",
+			"Rev": "a6a2e430fd2e1bc1f91c0fd538e5c2d0c898f5dc"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "d9558e5c97f85372afee28cf2b6059d7d3818919"
+		}
+	]
+}
